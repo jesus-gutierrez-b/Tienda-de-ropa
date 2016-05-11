@@ -1,0 +1,10 @@
+BODY{background-color:white;}
+TD{text-align:center;}
+#rojo{background-color:#CC0000; height:165px;}
+#centre{text-align:center; float:middle; position:absolute; left:405px;}
+#clear{font-size:22px;}
+#beau{font-size:14px;}
+.th{font-size:24px;}
+.short{color:white; font-size:11px;}
+.bold{color:white; font-weight:bold;}
+
